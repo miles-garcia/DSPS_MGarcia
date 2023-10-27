@@ -1,7 +1,7 @@
 # **Homework 5**
 
 ## Contributions
-I worked at separate times with Sarah, Masooma, and Shar and on separate portions of the assignment. I was mainly responsible for my work; we discussed solutions to issues we encountered together by comparing code and talking.
+I worked at separate times with Sarah, Masooma, and Shar on different portions of the assignment. I was mainly responsible for my work; we discussed solutions to issues we encountered together by comparing code and talking.
 
 ## Reflection
 
